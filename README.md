@@ -1,6 +1,5 @@
 <div align="center">
-<h1 align="center"> Hola, soy Mariela 👋</h1>
-    <font size="1">This is really tiny text.</font>
+<h1 align="center"> <font size="1"> Hola, soy Mariela 👋 </font> </h1>
 </div>
 
 <!--
