@@ -2,8 +2,9 @@
 <h1 align="center">Hola, soy Mariela 👋</h1>
 </div>
 
-
+<!--
 ### Hi there 👋
+-->
 
 <!--
 **mariela-ecv/mariela-ecv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
